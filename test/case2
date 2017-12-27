@@ -1,0 +1,1 @@
+begin a:=9; x:=2 * 3; /*hello world*/ b:=(a + x / 112 - ((11)) + (x - 1)) end #
